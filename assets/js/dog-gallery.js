@@ -34,8 +34,8 @@ window.onload = function() {
 modalCloseButton.addEventListener('click', closeImageModal);
 
 // Close image modal if user clicks anywhere on the screen outside full size photo
-window.onclick = function(event) {
-	if (event.target == imageModal[0] && event.target != modalImgFullView[0]) {
+document.onclick = function(event) {
+	if (event.target == imageModal && event.target != modalImgFullView) {
 		closeImageModal();
 	}
 };
@@ -44,7 +44,7 @@ window.onclick = function(event) {
 function loadJSONFile(callback) {   
 	var xhr = new XMLHttpRequest();
 	xhr.overrideMimeType("application/json");
-	xhr.open('GET', '/assets/data/dogs.json', true); 
+	xhr.open('GET', 'assets/data/dogs.json', true); 
 	xhr.onreadystatechange = function () {
 	  if (xhr.readyState == 4 && xhr.status == "200") {
 	    callback(xhr.responseText);
