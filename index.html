@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+	<head>
+	  <meta charset="utf-8">
+	  <meta name="viewport" content="width=device-width, initial-scale=1">
+	  <title>Dog Gallery</title>
+	  <meta name="description" content="Photo gallery of dogs">
+	  <meta name="keywords" content="pet, puppy, dog, dog photos, puppy photos, dog images, puppy images">
+	  <link rel="stylesheet" href="assets/styles/site.css">
+	</head>
+	<body>
+		<!-- Site Header Start -->
+		<header class="site-header">
+		  <h1>Puppy image gallery</h1>
+		  <blockquote class="site-header__quote">
+		    <p>A dog will teach you unconditional love. If you can have that in your life, things won't be too bad.</p>
+		    <cite>&mdash;Robert Wagner</cite>
+		  </blockquote> 
+		</header>
+		<!-- Site Header End -->
+		<!-- Photo gallery with dogs photos Start -->
+		<div class="dog-gallery-wrapper">
+			<h2>View the gallery of dogs</h2>
+			<p>Click on the image to view full size photo</p>
+			<!-- Pleaceholder to add photo thumbnails -->
+			<div id="dog-gallery-placeholder"></div>
+			<!-- Placeholder for viewing images in full size -->
+			<div id="image-modal-placeholder" class="image-modal">
+				<div id="modal-close-button" class="close-button">&#10005;</div>
+				<!-- Full size image will be added here when its thumbnail is clicked -->
+				<img class="image-modal-content " id="image-full-view"  alt="Dog Image">
+			</div>
+		</div>
+		<!-- Photo gallery with dogs photos End -->
+		<!-- Site Footer Start -->
+		<footer class="site-footer">
+		  <p>Built by Masha Alisievich</p>
+		</footer>
+		<!-- Site Footer End -->
+		<!-- Javascript -->
+	 	<script src="assets/js/dog-gallery.js"></script>
+	</body>
+</html>

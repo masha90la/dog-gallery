@@ -1,0 +1,108 @@
+{
+  "dogs": [
+  {
+      "image": "/assets/images/dogs-full-size/dog_for_adoption_1",
+      "description" : "White dog standing outside",
+      "image_format": "jpg",
+      "source": "https://unsplash.com/photos/ybHtKz5He9Y"
+    },
+
+    {
+      "image": "/assets/images/dogs-full-size/dog_for_adoption_2",
+      "description" : "White dog yawning",
+      "image_format": "jpg",
+      "source": "https://unsplash.com/photos/rY79kwEEyGo"
+    },
+
+    {
+      "image": "/assets/images/dogs-full-size/dog_for_adoption_3",
+      "description" : "Puppy wearing a red collar",
+      "image_format": "jpg",
+      "source": "https://unsplash.com/photos/ngqyo2AYYnE"
+    },
+
+    {
+      "image": "/assets/images/dogs-full-size/dog_for_adoption_4",
+      "description" : "Puppy in the backpack on a man's back",
+      "image_format": "jpg",
+      "source": "https://unsplash.com/photos/9A64wd1QaAU"
+    },
+
+    {
+      "image": "/assets/images/dogs-full-size/dog_for_adoption_5",
+      "description" : "White dog by the mountain lake",
+      "image_format": "jpg",
+      "source": "https://unsplash.com/photos/915UJQaxtrk"
+    },
+
+    {
+      "image": "/assets/images/dogs-full-size/dog_for_adoption_6",
+      "description" : "Black and white dog looking up",
+      "image_format": "jpg",
+      "source": "https://unsplash.com/photos/mx0DEnfYxic"
+    },
+
+    {
+      "image": "/assets/images/dogs-full-size/dog_for_adoption_7",
+      "description" : "German shepherd standing on the road",
+      "image_format": "jpg",
+      "source": "https://unsplash.com/photos/OsOQhAzcEKc"
+    },
+
+    {
+      "image": "/assets/images/dogs-full-size/dog_for_adoption_8",
+      "description" : "Dog with eyes closed standing in the snow",
+      "image_format": "jpg",
+      "source": "https://unsplash.com/photos/6WneSv56YVI"
+    },
+
+    {
+      "image": "/assets/images/dogs-full-size/dog_for_adoption_9",
+      "description" : "Beige dog headshot",
+      "image_format": "jpg",
+      "source": "https://unsplash.com/photos/CdVG9f96kyg"
+    },
+
+    {
+      "image": "/assets/images/dogs-full-size/dog_for_adoption_10",
+      "description" : "Puppy chewing a yellow leaf",
+      "image_format": "jpg",
+      "source": "https://unsplash.com/photos/bVA2DI7c9e8"
+    },
+
+    {
+      "image": "/assets/images/dogs-full-size/dog_for_adoption_11",
+      "description" : "Dog by the lake looking up",
+      "image_format": "jpg",
+      "source": "https://unsplash.com/photos/GvhSUEN-Lm8"
+    },
+
+    {
+      "image": "/assets/images/dogs-full-size/dog_for_adoption_12",
+      "description" : "Dog walking forward in the grass",
+      "image_format": "jpg",
+      "source": "https://unsplash.com/photos/t2XHKIdc4Kw"
+    },
+    
+    {
+      "image": "/assets/images/dogs-full-size/dog_for_adoption_13",
+      "description" : "Dog with a blue collar on side facing",
+      "image_format": "jpg",
+      "source": "https://unsplash.com/photos/saRU3vzmgkY"
+    },
+
+    {
+      "image": "/assets/images/dogs-full-size/dog_for_adoption_14",
+      "description" : "Two puppies standing side by side",
+      "image_format": "jpg",
+      "source": "https://unsplash.com/photos/1z-kI6gIEpg"
+    },
+
+    {
+      "image": "/assets/images/dogs-full-size/dog_for_adoption_15",
+      "description" : "Dog laying by the car",
+      "image_format": "jpg",
+      "source": "https://unsplash.com/photos/zHZ2nTnBnAQ"
+    }
+  ]
+}
